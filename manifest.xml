@@ -21,7 +21,7 @@ The mars-core module provides the base for other modules that require the simula
   <depend package="models/robots/crex" />
   <depend package="envire/orogen/envire_maps" />  
   <depend package="slam/pcl" />  
- <depend package="simulation/mars/pcl" />
+  <depend package="slam/orogen/pcl" />
   <versioncontrol type="git" url="" />
   <export>
     <cpp cflags="" lflags="" />
